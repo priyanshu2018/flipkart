@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544719610784",
+    "firebase_url": "https://zapfitt-55f99.firebaseio.com",
+    "project_id": "zapfitt-55f99",
+    "storage_bucket": "zapfitt-55f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544719610784:android:a187464961fb924e7cfac5",
+        "android_client_info": {
+          "package_name": "zapfitt.com.example.zapfitt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544719610784-nur66d5f2d499s53alkb31ik4r6mel2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zapfitt.com.example.zapfitt",
+            "certificate_hash": "9dc0638b9823ac66db491354244aac764a414321"
+          }
+        },
+        {
+          "client_id": "544719610784-6b9319mk0opkfvsc212q3nu5a4fj5o0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2vakdDv5mHPBzXlRGwaotrjqanDVQRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544719610784-6b9319mk0opkfvsc212q3nu5a4fj5o0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
